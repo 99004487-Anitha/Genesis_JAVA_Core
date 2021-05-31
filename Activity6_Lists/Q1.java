@@ -5,7 +5,7 @@ public class Q1 {
 	{
 		Scanner sc=new Scanner(System.in);
 		ArrayList<String> a=new ArrayList<String>();
-		System.out.println(" the player details");
+		System.out.println("Enter the player details");
 		System.out.println("Enter player name:");
 		String temp=sc.next();
 		a.add(temp);
